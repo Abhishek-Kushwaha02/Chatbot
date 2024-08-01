@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    canvas {
+      border: 1px solid black;
+    }
+  </style>
+</head>
+<body>
+  <canvas id="spectrogram" width="500" height="300"></canvas>
+  <script>
+    var canvas = document.getElementById('spectrogram');
+    var context = canvas.getContext('2d');
+
+    var spectrogramData = [];
+
+    // Generate sample data for the spectrogram
+    for (var i = 0; i < canvas.width; i++) {
+      spectrogramData[i] = [];
+      for (var j = 0; j < canvas.height; j++) {
+        spectrogramData[i][j] = Math.random();
+      }
+    }
+
+    // Render the spectrogram
+    function renderSpectrogram() {
+      for (var i = 0; i < canvas.width; i++) {
+        for (var j = 0; j < canvas.height; j++) {
+          var value = spectrogramData[i][j];
+          var color = Math.floor(value * 255);
+          context.fillStyle = 'rgb(' + color + ',' + color + ',' + color + ')';
+          context.fillRect(i, j, 1, 1);
+        }
+      }
+    }
+
+    // Call the renderSpectrogram function repeatedly to update the spectrogram
+    setInterval(renderSpectrogram, 50);
+  </script>
+</body>
+</html>

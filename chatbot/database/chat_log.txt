@@ -1,0 +1,75 @@
+You : Hello
+dark : Hello Sir , How are you ?
+You :  I am fine , What about you?
+dark : I am also fine sir.
+You : Remember your name is dark.
+
+You : tell me about yourself dark 
+dark : I am a digital assistant created to help users with a variety of tasks. I can perform tasks such as scheduling appointments, sending emails, and managing your calendar. I am always here to help and make your life easier.
+
+You : open MS Word 
+dark : Opening Microsoft Word...
+You : open PowerPoint 
+dark : Opening Microsoft PowerPoint...
+You : open Notepad 
+dark : Opening Microsoft Notepad...
+You : none 
+dark : Sorry, I didn't understand your request. Please try again.
+You : close notepad 
+dark : Closing Microsoft Notepad...
+You : close notepad 
+dark : Closing Microsoft Notepad...
+You : blender 
+dark : Sorry, I don't know how to help with that.
+You : none 
+dark : Sorry, I didn't understand your request. Please try again.
+You : what is your name 
+dark : My name is Dark.
+You : and blender 
+dark : Sorry, I don't know how to help with that.
+You : none 
+dark : Sorry, I didn't understand your request. Please try again.
+You : sleep 
+dark : Sorry, I can't help you with that.
+You : I said sleep 
+dark : Sorry, I can't help you with that.
+You : open YouTube 
+dark : Opening YouTube...
+You : Bade dekh lena sleep 
+dark : Sorry, I can't help you with that.
+You : message sleep 
+dark : Sorry, I can't help you with that.
+You : open Notepad 
+dark : Opening Microsoft Notepad...
+You : open Notepad 
+dark : Opening Microsoft Notepad...
+You : please open camera 
+dark : Opening the camera...
+You : none 
+dark : Sorry, I didn't understand your request. Please try again.
+You : none 
+dark : Sorry, I didn't understand your request. Please try again.
+You : Sab problem 
+dark : Sorry, I don't understand what you're trying to say. Please try again.
+You : capital of India 
+dark : The capital of India is New Delhi.
+You : capital of Uttar Pradesh 
+dark : The capital of Uttar Pradesh is Lucknow.
+You : none 
+dark : Sorry, I didn't understand your request. Please try again.
+You : none 
+dark : Sorry, I didn't understand your request. Please try again.
+You : close notepad 
+dark : Closing Microsoft Notepad...
+You : close blender 
+dark : Sorry, I don't know how to help with that.
+You : open blender 
+dark : Sorry, I don't know how to help with that.
+You : close notepad 
+dark : Closing Microsoft Notepad...
+You : tell me about RR film 
+dark : The RR film is a 2019 Indian Hindi-language action thriller film directed by Sanjay Leela Bhansali and produced by Bhansali and Sudhanshu Vatsa. The film stars Ranveer Singh, Vaani Kapoor, and Elisa Bachir Bey in
+You : close blender 
+dark : Sorry, I don't know how to help with that.
+You : open Notepad 
+dark : Opening Microsoft Notepad...
